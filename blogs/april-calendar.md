@@ -21,7 +21,7 @@
 | Date | Day | Slug | Keyword | Category | Status |
 |---|---|---|---|---|---|
 | 2026-04-08 | Wed | what-happens-after-arrest-laguna-hills | what happens after an arrest in Laguna Hills | Bail Process | ✅ published |
-| 2026-04-09 | Thu | how-bail-bonds-work-laguna-hills | how do bail bonds work in Laguna Hills | Bail Bonds 101 | ⬜ |
+| 2026-04-09 | Thu | how-bail-bonds-work-laguna-hills | how do bail bonds work in Laguna Hills | Bail Bonds 101 | ✅ published |
 | 2026-04-10 | Fri | how-much-is-bail-laguna-hills | how much is bail in Orange County | Bail Amounts | ⬜ |
 | 2026-04-11 | Sat | how-to-get-someone-out-of-jail-laguna-hills | how to get someone out of jail in Laguna Hills | Release Process | ⬜ |
 | 2026-04-12 | Sun | domestic-violence-bail-laguna-hills | domestic violence bail bonds Laguna Hills | DV Bail | ⬜ |
