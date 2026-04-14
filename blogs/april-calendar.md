@@ -22,11 +22,11 @@
 |---|---|---|---|---|---|
 | 2026-04-08 | Wed | what-happens-after-arrest-laguna-hills | what happens after an arrest in Laguna Hills | Bail Process | ✅ published |
 | 2026-04-09 | Thu | how-bail-bonds-work-laguna-hills | how do bail bonds work in Laguna Hills | Bail Bonds 101 | ✅ published |
-| 2026-04-10 | Fri | how-much-is-bail-laguna-hills | how much is bail in Orange County | Bail Amounts | ⬜ |
+| 2026-04-10 | Fri | how-much-is-bail-laguna-hills | how much is bail in Orange County | Bail Amounts | ✅ published |
 | 2026-04-11 | Sat | how-to-get-someone-out-of-jail-laguna-hills | how to get someone out of jail in Laguna Hills | Release Process | ⬜ |
 | 2026-04-12 | Sun | domestic-violence-bail-laguna-hills | domestic violence bail bonds Laguna Hills | DV Bail | ⬜ |
 | 2026-04-13 | Mon | dui-bail-bonds-laguna-hills | DUI bail bonds Laguna Hills | DUI | ⬜ |
-| 2026-04-14 | Tue | felony-bail-bonds-laguna-hills | felony bail bonds Laguna Hills | Felony | ⬜ |
+| 2026-04-14 | Tue | 2026-04-14-laguna-hills-bail-bonds | laguna hills bail bonds | Hub Post | ✅ published |
 | 2026-04-15 | Wed | drug-possession-bail-laguna-hills | drug possession bail Laguna Hills | Drug Charges | ⬜ |
 | 2026-04-16 | Thu | bail-someone-out-at-night-laguna-hills | can you bail someone out at night in Laguna Hills | 24/7 Bail | ⬜ |
 | 2026-04-17 | Fri | how-long-bail-takes-laguna-hills | how long does it take to bail someone out of OCSD South | Timeline | ⬜ |
